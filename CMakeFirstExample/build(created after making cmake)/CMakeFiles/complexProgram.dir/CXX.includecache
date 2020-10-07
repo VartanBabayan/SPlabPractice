@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/Complex.h
+
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/complexProgram.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+Complex.h
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/Complex.h
+

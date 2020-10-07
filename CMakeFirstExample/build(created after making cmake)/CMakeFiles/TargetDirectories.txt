@@ -1,0 +1,4 @@
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/build/CMakeFiles/complexProgram.dir
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Dev_User4/Desktop/OS/git/SPlabPractice/CMakeFirstExample/build/CMakeFiles/Complex.dir
